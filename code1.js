@@ -1,2 +1,2 @@
-let dinesh = 20;
+let dinesh = 30;
 console.log(dinesh)
